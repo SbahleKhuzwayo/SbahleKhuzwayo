@@ -10,7 +10,10 @@
 
 😄 Pronouns: She
 
-⚡ Fun fact: I love coding while listening to deep house music! 🎶
+# Project Name
+
+🚧 Work in Progress 🚧  
+I haven't uploaded this project to GitHub yet, but stay tuned! 
 
 
 
