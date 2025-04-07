@@ -17,6 +17,7 @@
 🌐 Your next web inspiration starts here-explore my project and tell me what you think
 💡 Crafted with passion, coded with precision — see it for yourself!🎯✨
 
+😒😶‍🌫️🫠YOOI JAVASCRIPT IS DIFFICULT BUT I WILL REACH THE GOAL DON'T WORRY YOU GUYS,BUT I'M OPEN TO BE CORRECTED I DON'T MIND❤️
 
 
 
