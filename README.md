@@ -17,6 +17,9 @@
 🌐 Your next web inspiration starts here-explore my project and tell me what you think
 💡 Crafted with passion, coded with precision — see it for yourself!🎯✨
 
+🛠️ important notice😎😉don't worry about Javascript i'm still cooking you all🛠️ 
+
+
 
 
 
