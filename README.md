@@ -12,8 +12,12 @@
 
 # Project Name
 
-🚧 Work in Progress 🚧  
-I haven't uploaded this project to GitHub yet, but stay tuned! 
+🚧web-portfolio-2025  🚧  
+🔥 Ready to be impressed? Click and experience creativity unleashed!
+🌐 Your next web inspiration starts here-explore my project and tell me what you think
+💡 Crafted with passion, coded with precision — see it for yourself!🎯✨
+
+
 
 
 
