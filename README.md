@@ -1,4 +1,4 @@
-👋 Hi, I’m @SbahleKhuzwayo
+👋 Hi, I’m SbahleKhuzwayo
 
 👀 I’m interested in software development, web development, databases, and AI
 
