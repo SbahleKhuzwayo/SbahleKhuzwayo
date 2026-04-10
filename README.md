@@ -2,7 +2,7 @@
 
  I’m interested in software development, web development, databases, and AI
 
- I’m currently learning  Java, system design, and cloud computing
+ I’m currently learning  Java
 
  I’m looking to collaborate on open-source projects, web apps, and database-driven applications
 
