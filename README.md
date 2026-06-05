@@ -1,21 +1,18 @@
- Hi, I’m Sbahle Khuzwayo
+ Hi, My name is Sbahle Khuzwayo
 
- I’m interested in software development, web development, databases, and AI
+ I’m interested in software engineer, web development, databases, AI and anything related to computers.
 
- I’m currently learning  Java
+ I’m learnt coding in Java language at Tshwane University of Technology, i have completed my course this year i'm currently busy applying for internships.
 
  I’m looking to collaborate on open-source projects, web apps, and database-driven applications
 
  How to reach me: [sbahlekhuz2000@gmail.com] |LinkedIn(https://www.linkedin.com/in/sbahle-khuzwayo-b7a58423b?     lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJqHuTPK4R0mc1Na%2BQCrY0g%3D%3D)
 
- Pronouns: She
+ Pronouns: She,her
 
-# Project Name
-
-🚧web-portfolio-2025  🚧  
- Ready to be impressed? Click and experience creativity unleashed!
- Your next web inspiration starts here-explore my project and tell me what you think
- Crafted with passion, coded with precision — see it for yourself!
+🚧my-portfolio🚧  
+ Explore my projects and tell me what you think.
+ They Crafted with passion, coded with precision — see it for yourself!
 
 
 
