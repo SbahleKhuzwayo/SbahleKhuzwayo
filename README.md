@@ -2,7 +2,7 @@
 
  I’m interested in software engineer, web development, databases, AI and anything related to computers.
 
- I’m learnt coding in Java language at Tshwane University of Technology, i have completed my course this year i'm currently busy applying for internships.
+ I’ve learnt coding in Java language at Tshwane University of Technology, i have completed my course this year i'm currently busy applying for internships.
 
  I’m looking to collaborate on open-source projects, web apps, and database-driven applications
 
