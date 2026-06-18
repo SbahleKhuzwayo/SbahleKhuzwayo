@@ -1,23 +1,11 @@
- Hi, My name is Sbahle Khuzwayo
+👋 About Me
 
- I’m interested in software engineer, web development, databases, AI and anything related to computers.
+Hi, my name is Sbahle Khuzwayo.
+I am a final-year Computer Science student at Tshwane University of Technology (TUT), focused on Java, SQL, and Web Development, currently seeking a WIL placement or junior software developer opportunity.
 
- I’ve learnt coding in Java language at Tshwane University of Technology, i have completed my coursework this year 2026, I'm currently looking for internships.
+I am passionate about building practical software solutions and continuously improving my technical skills through academic and personal projects.
 
- I’m also looking to collaborate on open-source projects, web apps, and database-driven applications
-
- You can reach me using my Email: [sbahlekhuz2000@gmail.com] |LinkedIn(https://www.linkedin.com/in/sbahle-khuzwayo-b7a58423b?     lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJqHuTPK4R0mc1Na%2BQCrY0g%3D%3D)
-
- Pronouns: She,her
-
-🚧my-portfolio🚧  
- Explore my projects and tell me what you think.
- They Crafted with passion, coded with precision — see it for yourself!
-
-
-
-
-
-
-
-
+📫 Contact Information
+Email: sbahlekhuz2000@gmail.com
+LinkedIn:https://www.linkedin.com/in/sbahle-khuzwayo-b7a58423b
+Pronouns: She / Her
